@@ -1,0 +1,15 @@
+autopep8==2.0.2
+beautifulsoup4==4.12.2
+CacheControl==0.12.11
+certifi==2023.5.7
+charset-normalizer==3.1.0
+idna==3.4
+lxml==4.9.2
+msgpack==1.0.5
+pycodestyle==2.10.0
+pywebcopy==7.0.2
+requests==2.31.0
+six==1.16.0
+soupsieve==2.4.1
+tomli==2.0.1
+urllib3==2.0.2
